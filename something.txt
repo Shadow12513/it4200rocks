@@ -1,4 +1,8 @@
 this is something
 
+<<<<<<< HEAD
 some change is here
 im done now
+=======
+yay done chnanging
+>>>>>>> master
